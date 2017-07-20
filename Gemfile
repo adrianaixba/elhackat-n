@@ -7,4 +7,5 @@ gem "jekyll-watch"
 gem "kramdown"
 gem "scss-lint"
 gem "jekyll-theme-cayman"
+gem 'jekyll-theme-cayman', '~> 0.0.4'
 gem "github-pages", group: :jekyll_plugins
