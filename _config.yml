@@ -12,7 +12,7 @@ url: "https://adrianaixba.github.io/elhackaton"
 
 # The ability to use custom themes.
 style:
-  theme: "jekyll-theme-cayman"
+  theme: " jekyll-theme-slate"
 
 # This will help you track who's visiting your website.
 tracking:
