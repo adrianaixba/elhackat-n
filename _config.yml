@@ -12,7 +12,7 @@ url: "https://adrianaixba.github.io/elhackaton"
 
 # The ability to use custom themes.
 style:
-  theme: "jekyll-theme-cayman"
+  theme: "cayman"
 
 # This will help you track who's visiting your website.
 tracking:
@@ -44,7 +44,7 @@ event:
     links:
       - text: "Apply"
         my_mlh:
-          client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
+          client_id:    ""
           redirect_uri: "https://docs.google.com/forms/u/0/d/e/1FAIpQLSdyVQOPxvnAY8BzsbXp-s_TBKC5Ryi0W05571iBx4m5a30sxw/viewform?usp=sf_link"
       - text: "Sponsor"
         href: "mailto:sponsorship@website.com"
