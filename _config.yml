@@ -12,7 +12,7 @@ url: "https://adrianaixba.github.io/elhackaton"
 
 # The ability to use custom themes.
 style:
-  theme: "jekyll-theme-cayman"
+  theme: "original"
 
 # This will help you track who's visiting your website.
 tracking:
@@ -61,7 +61,7 @@ event:
   # Info Sections
   info:
     sections:
-      - image: "images/image1.png"
+      - image: "images/elhackaton logo.jpg"
         title: "LEARN."
         description: >
           We can write something nice with a graphic (as above) to make the event more appealing.
