@@ -12,7 +12,7 @@ url: "https://adrianaixba.github.io/elhackaton"
 
 # The ability to use custom themes.
 style:
-  theme: "cayman"
+  theme: "jekyll-theme-cayman"
 
 # This will help you track who's visiting your website.
 tracking:
@@ -38,7 +38,7 @@ event:
   trust_badge:
     year:   "2017"  # season year
     region: "eu"    # "na" or "eu"
-    color:  "green" # "white", "black", "gray", "red", "blue" or "yellow"
+    color:  "yellow" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
     links:
