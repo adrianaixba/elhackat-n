@@ -51,10 +51,13 @@ event:
 
   about:
     description: >
-      Example Hacks is a hackathon hosted at The University of Example.
-      This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
-      Keep it straightforward, don't make it too long.
-
+      Example Hacks is a hackathon hosted at The University of Texas at Austin.
+      The purpose of our event is to break cultural stereotypes as well as empower 
+      one of the most important demographics in our country, and sadly one of the least 
+      recognized in the Tech industry. Do not misunderstand the concept; we are happy to include 
+      people of all backgrounds in the event but have the mission to bring a hackathon opportunity 
+      to students who might not usually attend these events, by creating a familiar environment.
+      
   # Info Sections
   info:
     sections:
@@ -73,10 +76,16 @@ event:
 
   # Frequently asked questions.
   faq:
-    - question: "What is a hackathon?"
+    - question: "Who are we?"
       answer: >
-        A hackathon is an invention marathon. Students come together to build cool
-        software & hardware hacks over 24-48 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
+        Our team, Los Hackers, is a focused diverse group of 13 University Of Texas Computer 
+        Science students. Our intention is to create a hackaton, El Hackaton, to give people in our
+        community the opportunity to have unique empowering experience. Our goal is to provide
+        Hispanic members of our community, tools to gain experience working in technology. We
+        want to do this by giving them a safe space, so they are able to express themselves,
+        collaborate, and learn through innovative thinking. We want to provide participants with
+        tech talks, skill building workshops, and the tech instruments to supply the innovative ideas
+        of novices and experienced hackers.
     - question: "How much does it cost?"
       answer: >
         Nothing. Attending a hackathon is free.
@@ -86,7 +95,7 @@ event:
         have graduated within the past 12 months are eligible to attend.
     - question: "Where is the event?"
       answer: >
-        The event is being hosted at [insert venue location here].
+        The event is being hosted at The University of Texas at Austin.
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
