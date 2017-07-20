@@ -26,7 +26,7 @@ social:
 seo:
   title:       "El Hackatón | 21/22 October 2017"
   description: "Welcome to El Hackatón!"
-  image:       "images/elhackaton logo.jpg"
+  image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
