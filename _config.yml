@@ -44,8 +44,8 @@ event:
     links:
       - text: "Apply"
         my_mlh:
-          client_id:    ""
-          redirect_uri: "https://docs.google.com/forms/u/0/d/e/1FAIpQLSdyVQOPxvnAY8BzsbXp-s_TBKC5Ryi0W05571iBx4m5a30sxw/viewform?usp=sf_link"
+          client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
+          redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
       - text: "Sponsor"
         href: "mailto:sponsorship@website.com"
 
@@ -62,17 +62,19 @@ event:
   info:
     sections:
       - image: "images/image1.png"
-        title: "LEARN."
-        description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
-      - image: "images/image2.png"
         title: "BUILD."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Create something new, or something you've always wanted to build with the help of teammates 
+          or technical volunteers that can answer all your hacking questions!
+      - image: "images/image2.png"
+        title: "LEARN."
+        description: >
+          Experience is the main driver for a great educational experience! Our tech talks and workshops will
+          guarantee this knowledgable experience.
       - image: "images/image3.png"
         title: "SHARE."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Meet new friends, and share your knowledge and ideas in a fun environment!
 
   # Frequently asked questions.
   faq:
@@ -89,6 +91,11 @@ event:
     - question: "How much does it cost?"
       answer: >
         Nothing. Attending a hackathon is free.
+    -question: "Out of the area hackers?"
+      answer: >
+        If you don't live in the area, make sure to mention it while filling out your application. We have sponsors who will
+        be willing to sponsor your experience, so you don't have to spend a dime! As we review and accept the candidate's applications, we will follow up with an email
+        on your transportation updates.
     - question: "Do I need to be a student to attend?"
       answer: >
         Yes. Only students who are currently enrolled at a college/university or
@@ -100,9 +107,16 @@ event:
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
         We work with over 200 Member Events and empower over 70,000 students every year.
+    -question: "How do teams work"
+      answer: >
+        You will be able to form a team with the limit of 5 people, but you may also work alone. If you don't have a team yet,
+        don't worry! Before coding begins, you will be able to meet new people who are also looking for teammates.
     - question: "Is there a code of conduct?"
       answer: >
         Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+    -question: "Who could we contact for more information?"
+      answer: >
+        You can contact el.hackaton@gmail.com for any questions you may have.
 
   # This is the message you'll receive once you've registered.
   register:
