@@ -12,7 +12,7 @@ url: "https://adrianaixba.github.io/elhackaton"
 
 # The ability to use custom themes.
 style:
-  theme: "original"
+  theme: "jekyll-theme-cayman"
 
 # This will help you track who's visiting your website.
 tracking:
@@ -45,13 +45,13 @@ event:
       - text: "Apply"
         my_mlh:
           client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
-          redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
+          redirect_uri: "https://goo.gl/forms/sHfpFzilmjWdWGTf2"
       - text: "Sponsor"
         href: "mailto:sponsorship@website.com"
 
   about:
     description: >
-      Example Hacks is a hackathon hosted at The University of Texas at Austin.
+      El Hackatón is a hackathon hosted at The University of Texas at Austin.
       The purpose of our event is to break cultural stereotypes as well as empower 
       one of the most important demographics in our country, and sadly one of the least 
       recognized in the Tech industry. Do not misunderstand the concept; we are happy to include 
@@ -79,7 +79,7 @@ event:
     - question: "Who are we?"
       answer: >
         Our team, Los Hackers, is a focused diverse group of 13 University Of Texas Computer 
-        Science students. Our intention is to create a hackaton, El Hackaton, to give people in our
+        Science students. Our intention is to create a hackaton, El Hackatón, to give people in our
         community the opportunity to have unique empowering experience. Our goal is to provide
         Hispanic members of our community, tools to gain experience working in technology. We
         want to do this by giving them a safe space, so they are able to express themselves,
