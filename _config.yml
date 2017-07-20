@@ -45,7 +45,7 @@ event:
       - text: "Apply"
         my_mlh:
           client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
-          redirect_uri: "https://goo.gl/forms/sHfpFzilmjWdWGTf2"
+          redirect_uri: "https://docs.google.com/forms/u/0/d/e/1FAIpQLSdyVQOPxvnAY8BzsbXp-s_TBKC5Ryi0W05571iBx4m5a30sxw/viewform?usp=sf_link"
       - text: "Sponsor"
         href: "mailto:sponsorship@website.com"
 
@@ -61,7 +61,7 @@ event:
   # Info Sections
   info:
     sections:
-      - image: "images/elhackaton logo.jpg"
+      - image: "images/image1.png"
         title: "LEARN."
         description: >
           We can write something nice with a graphic (as above) to make the event more appealing.
